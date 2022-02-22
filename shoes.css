@@ -1,0 +1,49 @@
+#title{
+    background-color: aquamarine;
+}
+#main{
+    background-image: url(https://miro.medium.com/max/612/1*nVumkYqlHDAQ6LdJQqf4gg.jpeg);
+    height: 100%;  
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    color: wheat;
+}
+#cards{
+    background-color: black;
+    height: 250px;
+    width: 250px;
+    padding: 10px;
+    margin: 5px;
+}
+img{
+    height: 50px;
+    width: 100px;
+    padding: 10px;
+
+}
+#name{
+    font-size: 12pt;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 5px;
+    font-weight: bolder;
+    border: solid white;
+    border-style: solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: wheat;
+
+}
+p{
+
+
+}
+ul{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+    color: wheat;
+    height: 20px;
+
+}
